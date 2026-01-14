@@ -31,8 +31,15 @@ app.get("/banks", (req, res) => {
 });
 
 // Get only bank names
+// Get only bank names where sector contains "bank"
 app.get("/banks/names", (req, res) => {
-  res.json(banks.map((b) => b.name));
+  const filteredNames = banks
+    .filter((b) => 
+      (b.sector || "").toLowerCase().includes("bank")
+    )
+    .map((b) => b.name);
+
+  res.json(filteredNames);
 });
 
 // Get single bank by symbol
