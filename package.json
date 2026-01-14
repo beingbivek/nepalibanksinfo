@@ -1,3 +1,13 @@
-"scripts": {
-  "start": "node index.js"
+{
+  "name": "banks-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5"
+  }
 }
