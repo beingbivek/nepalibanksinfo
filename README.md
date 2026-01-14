@@ -38,7 +38,7 @@ Render.com (hosting)
 
 After deployment on Render, your API will be available at:
 
-https://your-app-name.onrender.com
+https://nepalibanksinfo-api.onrender.com
 
 📌 API Endpoints
 1️⃣ Health Check
