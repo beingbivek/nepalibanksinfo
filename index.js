@@ -30,13 +30,13 @@ app.get("/banks", (req, res) => {
   res.json(banks);
 });
 
-// Get only bank names
-// Get only bank names where sector contains "bank"
+// Get only bank and finance names
 app.get("/banks/names", (req, res) => {
   const filteredNames = banks
-    .filter((b) => 
-      (b.sector || "").toLowerCase().includes("bank")
-    )
+    .filter((b) => {
+      const sector = (b.sector || "").toLowerCase();
+      return sector.includes("bank") || sector.includes("finance");
+    })
     .map((b) => b.name);
 
   res.json(filteredNames);
