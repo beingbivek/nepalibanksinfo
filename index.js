@@ -1,6 +1,6 @@
 const express = require("express");
 const cors = require("cors");
-const banks = require("./banksinfo.json");
+const banks = require("./bankinfo.json");
 
 const app = express();
 app.use(cors());
