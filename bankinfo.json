@@ -1,0 +1,3544 @@
+[
+    {
+        "id": 131,
+        "symbol": "NABIL",
+        "name": "Nabil Bank Limited",
+        "sector": "Commercial Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 132,
+        "symbol": "NIB",
+        "name": "Nepal Investment Bank Limited",
+        "sector": "Commercial Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 133,
+        "symbol": "SCB",
+        "name": "Standard Chartered Bank Limited",
+        "sector": "Commercial Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 134,
+        "symbol": "HBL",
+        "name": "Himalayan Bank Limited",
+        "sector": "Commercial Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 135,
+        "symbol": "SBI",
+        "name": "Nepal SBI Bank Limited",
+        "sector": "Commercial Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 136,
+        "symbol": "NBB",
+        "name": "Nepal Bangladesh Bank Limited",
+        "sector": "Commercial Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 137,
+        "symbol": "EBL",
+        "name": "Everest Bank Limited",
+        "sector": "Commercial Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 138,
+        "symbol": "BOKL",
+        "name": "Bank of Kathmandu Ltd.",
+        "sector": "Commercial Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 139,
+        "symbol": "NICA",
+        "name": "NIC Asia Bank Ltd.",
+        "sector": "Commercial Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 140,
+        "symbol": "MBL",
+        "name": "Machhapuchhre Bank Limited",
+        "sector": "Commercial Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 141,
+        "symbol": "LBL",
+        "name": "Laxmi Bank Limited",
+        "sector": "Commercial Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 142,
+        "symbol": "KBL",
+        "name": "Kumari Bank Limited",
+        "sector": "Commercial Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 143,
+        "symbol": "LUBL",
+        "name": "Lumbini Bank Limited",
+        "sector": "Commercial Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 144,
+        "symbol": "NCCB",
+        "name": "Nepal Credit And Commercial Bank Limited",
+        "sector": "Commercial Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 145,
+        "symbol": "SBL",
+        "name": "Siddhartha Bank Limited",
+        "sector": "Commercial Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 146,
+        "symbol": "YHL",
+        "name": "Yak And Yeti Hotel Limited",
+        "sector": "Hotels And Tourism",
+        "instrument": "Equity"
+    },
+    {
+        "id": 147,
+        "symbol": "SHL",
+        "name": "Soaltee Hotel Limited",
+        "sector": "Hotels And Tourism",
+        "instrument": "Equity"
+    },
+    {
+        "id": 148,
+        "symbol": "TRH",
+        "name": "Taragaon Regency Hotel Limited",
+        "sector": "Hotels And Tourism",
+        "instrument": "Equity"
+    },
+    {
+        "id": 149,
+        "symbol": "OHL",
+        "name": "Oriental Hotels Limited",
+        "sector": "Hotels And Tourism",
+        "instrument": "Equity"
+    },
+    {
+        "id": 150,
+        "symbol": "ESC",
+        "name": "National Pro. And Eco. Dev. Centre",
+        "sector": "Others",
+        "instrument": "Equity"
+    },
+    {
+        "id": 151,
+        "symbol": "NFD",
+        "name": "Nepal Film Development Company Limited",
+        "sector": "Others",
+        "instrument": "Equity"
+    },
+    {
+        "id": 152,
+        "symbol": "NHPC",
+        "name": "National Hydro Power Company Limited",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 153,
+        "symbol": "BPCL",
+        "name": "Butwal Power Company Limited",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 154,
+        "symbol": "CHCL",
+        "name": "Chilime Hydropower Company Limited",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 155,
+        "symbol": "STC",
+        "name": "Salt Trading Corporation",
+        "sector": "Trading",
+        "instrument": "Equity"
+    },
+    {
+        "id": 156,
+        "symbol": "BBC",
+        "name": "Bishal Bazar Company Limited",
+        "sector": "Trading",
+        "instrument": "Equity"
+    },
+    {
+        "id": 157,
+        "symbol": "NBCK",
+        "name": "Nepal Byapar Bikash Company(Koshi) Limited",
+        "sector": "Trading",
+        "instrument": "Equity"
+    },
+    {
+        "id": 158,
+        "symbol": "NTL",
+        "name": "Nepal Tading Limited",
+        "sector": "Trading",
+        "instrument": "Equity"
+    },
+    {
+        "id": 159,
+        "symbol": "NWC",
+        "name": "Nepal Welfare Company Limited",
+        "sector": "Trading",
+        "instrument": "Equity"
+    },
+    {
+        "id": 160,
+        "symbol": "NIDC",
+        "name": "NIDC Development Bank Ltd.",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 161,
+        "symbol": "NDB",
+        "name": "Nepal Development Bank Limited",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 162,
+        "symbol": "GRAND",
+        "name": "Grand Bank Nepal Limited",
+        "sector": "Commercial Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 163,
+        "symbol": "NUBL",
+        "name": "Nirdhan Utthan Laghubitta Bittiya Sanstha Limited",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 164,
+        "symbol": "CBBL",
+        "name": "Chhimek Laghubitta Bittiya Sanstha Limited",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 165,
+        "symbol": "PDBL",
+        "name": "Paschimanchal Bikash Bank Limited",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 166,
+        "symbol": "DDBL",
+        "name": "Deprosc Laghubitta Bittiya Sanstha Limited",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 167,
+        "symbol": "GDBL1",
+        "name": "Gandaki Bikas BankLimited",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 168,
+        "symbol": "BUDBL",
+        "name": "Business Universal Development Bank Ltd.",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 169,
+        "symbol": "SDBL",
+        "name": "Siddhartha Development Bank Ltd.",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 170,
+        "symbol": "BBBL",
+        "name": "Bhrikuti Vikash Bank Limited",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 171,
+        "symbol": "SANIMA",
+        "name": "Sanima Bank Limited",
+        "sector": "Commercial Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 172,
+        "symbol": "NABBC",
+        "name": "Narayani Development Bank Limited",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 173,
+        "symbol": "BBBLN",
+        "name": "Bagheshwori Development Bank Limited",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 174,
+        "symbol": "SBBLJ",
+        "name": "Sahayogi Bikas Bank Limited",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 175,
+        "symbol": "GDBNL",
+        "name": "Gurkha Development Bank Limited",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 176,
+        "symbol": "NICL",
+        "name": "Nepal Insurance Co. Ltd.",
+        "sector": "Non Life Insurance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 177,
+        "symbol": "RBCL",
+        "name": "Rastriya Beema Company Limited",
+        "sector": "Non Life Insurance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 178,
+        "symbol": "NLICL",
+        "name": "National Life Insurance Co. Ltd.",
+        "sector": "Life Insurance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 179,
+        "symbol": "HEI",
+        "name": "Himalayan Everest Insurance Limited",
+        "sector": "Non Life Insurance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 180,
+        "symbol": "UIC",
+        "name": "United Insurance Co. (Nepal) Ltd.",
+        "sector": "Non Life Insurance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 181,
+        "symbol": "EIC",
+        "name": "Everest Insurance Co. Ltd.",
+        "sector": "Non Life Insurance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 182,
+        "symbol": "PIC",
+        "name": "Premier Insurance Company (Nepal) Limited",
+        "sector": "Non Life Insurance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 183,
+        "symbol": "NIL",
+        "name": "Neco Insurance Limited",
+        "sector": "Non Life Insurance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 184,
+        "symbol": "PRIN",
+        "name": "Prabhu Insurance Ltd.",
+        "sector": "Non Life Insurance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 185,
+        "symbol": "SIC",
+        "name": "Sagarmatha Insurance Co. Ltd.",
+        "sector": "Non Life Insurance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 186,
+        "symbol": "IGI",
+        "name": "IME General Insurance Ltd.",
+        "sector": "Non Life Insurance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 187,
+        "symbol": "NLIC",
+        "name": "Nepal Life Insurance Co. Ltd.",
+        "sector": "Life Insurance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 188,
+        "symbol": "LICN",
+        "name": "Life Insurance Corporation (Nepal) Limited",
+        "sector": "Life Insurance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 189,
+        "symbol": "PICL",
+        "name": "Prudential Insurance Co. Ltd.",
+        "sector": "Non Life Insurance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 190,
+        "symbol": "LGIL",
+        "name": "Lumbini General Insurance Co. Ltd.",
+        "sector": "Non Life Insurance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 192,
+        "symbol": "SICL",
+        "name": "Shikhar Insurance Co. Ltd.",
+        "sector": "Non Life Insurance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 193,
+        "symbol": "MSM",
+        "name": "Morang Sugar Mills Limited",
+        "sector": "Manufacturing And Processing",
+        "instrument": "Equity"
+    },
+    {
+        "id": 194,
+        "symbol": "NFS",
+        "name": "Nepal Finance Ltd.",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 195,
+        "symbol": "BNL",
+        "name": "Bottlers Nepal (Balaju) Limited",
+        "sector": "Manufacturing And Processing",
+        "instrument": "Equity"
+    },
+    {
+        "id": 196,
+        "symbol": "NCM",
+        "name": "NIDC Capital Markets Ltd.",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 197,
+        "symbol": "BJM",
+        "name": "Biratnagar Jute Mills Limited",
+        "sector": "Manufacturing And Processing",
+        "instrument": "Equity"
+    },
+    {
+        "id": 198,
+        "symbol": "NLO",
+        "name": "Nepal Lube Oil Limited",
+        "sector": "Manufacturing And Processing",
+        "instrument": "Equity"
+    },
+    {
+        "id": 199,
+        "symbol": "NNFC",
+        "name": "Narayani National Finance Limited",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 200,
+        "symbol": "NSM",
+        "name": "Nepal Share Markets Ltd.",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 201,
+        "symbol": "NVG",
+        "name": "Nepal Vanaspati Ghee Udhyog Limited",
+        "sector": "Manufacturing And Processing",
+        "instrument": "Equity"
+    },
+    {
+        "id": 202,
+        "symbol": "KBBL",
+        "name": "Kailash Bikas Bank Ltd.",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 203,
+        "symbol": "RJM",
+        "name": "Raghupati Jute Mills Limited",
+        "sector": "Manufacturing And Processing",
+        "instrument": "Equity"
+    },
+    {
+        "id": 204,
+        "symbol": "GUFL",
+        "name": "Gurkhas Finance Ltd.",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 205,
+        "symbol": "BSM",
+        "name": "Butwal Spinning Mills Limited",
+        "sector": "Manufacturing And Processing",
+        "instrument": "Equity"
+    },
+    {
+        "id": 206,
+        "symbol": "PFCL",
+        "name": "Peoples Finance Ltd.",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 207,
+        "symbol": "GRU",
+        "name": "Gorakhkali Rubber Udhyog Limited",
+        "sector": "Manufacturing And Processing",
+        "instrument": "Equity"
+    },
+    {
+        "id": 208,
+        "symbol": "UFCL",
+        "name": "Union Finance Co. Ltd.",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 209,
+        "symbol": "JSM",
+        "name": "Jyoti Sinning Mills Limited",
+        "sector": "Manufacturing And Processing",
+        "instrument": "Equity"
+    },
+    {
+        "id": 210,
+        "symbol": "CIT",
+        "name": "Citizen Investment Trust",
+        "sector": "Investment",
+        "instrument": "Equity"
+    },
+    {
+        "id": 211,
+        "symbol": "AVU",
+        "name": "Arun Vanaspati Udhyog Limited",
+        "sector": "Manufacturing And Processing",
+        "instrument": "Equity"
+    },
+    {
+        "id": 212,
+        "symbol": "NABB",
+        "name": "Nepal Aawas Finance Limited",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 213,
+        "symbol": "BNT",
+        "name": "Bottlers Nepal (Terai) Limited",
+        "sector": "Manufacturing And Processing",
+        "instrument": "Equity"
+    },
+    {
+        "id": 214,
+        "symbol": "NFL",
+        "name": "Narayani Finance Ltd.",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 215,
+        "symbol": "HBT",
+        "name": "Harisiddhi Brick And Tiles Limited",
+        "sector": "Manufacturing And Processing",
+        "instrument": "Equity"
+    },
+    {
+        "id": 216,
+        "symbol": "ACEDBL",
+        "name": "Ace Development Bank Ltd.",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 217,
+        "symbol": "BSL",
+        "name": "Birat Shoe Limited",
+        "sector": "Manufacturing And Processing",
+        "instrument": "Equity"
+    },
+    {
+        "id": 218,
+        "symbol": "YFL",
+        "name": "Yeti Finance Ltd.",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 219,
+        "symbol": "UNL",
+        "name": "Unilever Nepal Limited",
+        "sector": "Manufacturing And Processing",
+        "instrument": "Equity"
+    },
+    {
+        "id": 220,
+        "symbol": "GFLK",
+        "name": "Gorkha Finance Ltd.",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 221,
+        "symbol": "SFC",
+        "name": "Samjhana Finance Co. Ltd.",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 222,
+        "symbol": "NKU",
+        "name": "Nepal Khadya Udhyog Limited",
+        "sector": "Manufacturing And Processing",
+        "instrument": "Equity"
+    },
+    {
+        "id": 223,
+        "symbol": "UFLK",
+        "name": "Universal Finance Ltd.",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 224,
+        "symbol": "HTL",
+        "name": "Himgiri Textile Industries Limited",
+        "sector": "Manufacturing And Processing",
+        "instrument": "Equity"
+    },
+    {
+        "id": 225,
+        "symbol": "NHMF",
+        "name": "Nepal Housing & Merchant Finance Ltd.",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 226,
+        "symbol": "SBPP",
+        "name": "Shree Bhrikuti Pulp And Paper Limited",
+        "sector": "Manufacturing And Processing",
+        "instrument": "Equity"
+    },
+    {
+        "id": 227,
+        "symbol": "BFC",
+        "name": "Best Finance Company Ltd.",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 228,
+        "symbol": "FHL",
+        "name": "Fleur Himalayan Limited",
+        "sector": "Manufacturing And Processing",
+        "instrument": "Equity"
+    },
+    {
+        "id": 229,
+        "symbol": "MFL",
+        "name": "Maha Laxmi Finance Ltd.",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 230,
+        "symbol": "SRS",
+        "name": "Shree Ram Sugar Mills Limited",
+        "sector": "Manufacturing And Processing",
+        "instrument": "Equity"
+    },
+    {
+        "id": 231,
+        "symbol": "LFC",
+        "name": "Lalitpur Finance Ltd.",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 232,
+        "symbol": "GFCL",
+        "name": "Goodwill Finance Limited",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 233,
+        "symbol": "NBBU",
+        "name": "Nepal Bitumin And Barrel Udhyog Limited",
+        "sector": "Manufacturing And Processing",
+        "instrument": "Equity"
+    },
+    {
+        "id": 234,
+        "symbol": "PFC",
+        "name": "Paschimanchal Finance Co. Ltd.",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 235,
+        "symbol": "HDL",
+        "name": "Himalayan Distillery Limited",
+        "sector": "Manufacturing And Processing",
+        "instrument": "Equity"
+    },
+    {
+        "id": 236,
+        "symbol": "PFL",
+        "name": "Pokhara Finance Ltd.",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 237,
+        "symbol": "LFLC",
+        "name": "Lumbini Finance Ltd.",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 238,
+        "symbol": "NMB",
+        "name": "NMB Bank Limited",
+        "sector": "Commercial Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 239,
+        "symbol": "SFL",
+        "name": "Siddharth Finance Ltd.",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 240,
+        "symbol": "AEFL",
+        "name": "Alpic Everest Finance Co. Ltd.",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 241,
+        "symbol": "NBFL",
+        "name": "Nepal Bangladesh Finance & Leasing Co. Ltd.",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 242,
+        "symbol": "UFL",
+        "name": "United Finance Ltd.",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 243,
+        "symbol": "ILFC",
+        "name": "International Leasing & Finance Co. Ltd.",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 244,
+        "symbol": "SIFC",
+        "name": "Shree Investment Finance Co. Ltd.",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 245,
+        "symbol": "CFCL",
+        "name": "Central Finance Co. Ltd.",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 246,
+        "symbol": "NSLMB",
+        "name": "Nepal Shree Lanka Merchant Banking & Finance Ltd",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 247,
+        "symbol": "PFCLL",
+        "name": "Premier Finance Co. Ltd.",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 248,
+        "symbol": "NDFL",
+        "name": "Nava Durga Finance Co. Ltd.",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 249,
+        "symbol": "SYFL",
+        "name": "Synergy Finance Ltd.",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 250,
+        "symbol": "JFL",
+        "name": "Janaki Finance Company Limited",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 251,
+        "symbol": "STFL",
+        "name": "Standard Finance Ltd.",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 252,
+        "symbol": "OFL",
+        "name": "Om Finance Ltd.",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 253,
+        "symbol": "CMBF",
+        "name": "CMB Finance Limited",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 254,
+        "symbol": "FFCL",
+        "name": "Fewa Finance Co. Ltd.",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 255,
+        "symbol": "PRVU",
+        "name": "Prabhu  Bank Limited",
+        "sector": "Commercial Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 256,
+        "symbol": "SFCL",
+        "name": "Samriddhi Finance Company Limited",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 257,
+        "symbol": "BJFL",
+        "name": "Birgunj Finance Ltd.",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 258,
+        "symbol": "EFL",
+        "name": "Everest Finance Ltd.",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 259,
+        "symbol": "CMB",
+        "name": "Capital Merchant Bank & Finance Co. Ltd.",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 260,
+        "symbol": "PFIL",
+        "name": "Prudential Finance Company Limited",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 261,
+        "symbol": "SFFIL",
+        "name": "Shrijana Finance  (Bittaya Sanstha)",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 262,
+        "symbol": "APEX",
+        "name": "Apex Development Bank Ltd.",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 263,
+        "symbol": "GMFIL",
+        "name": "Guheshowori Merchant Bank & Finance Co. Ltd.",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 264,
+        "symbol": "IMEFI",
+        "name": "IME Financial Institution",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 265,
+        "symbol": "BFIL",
+        "name": "Bhajuratna Finance & Saving Co. Ltd.",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 266,
+        "symbol": "PFLBS",
+        "name": "Patan Finance Limited",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 267,
+        "symbol": "SUPRME",
+        "name": "Supreme Development Bank Ltd.",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 268,
+        "symbol": "SWBBL",
+        "name": "Swabalamban Laghubitta Bittiya Sanstha Limited",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 269,
+        "symbol": "NCMMF",
+        "name": "NCM Mutual Fund",
+        "sector": "Mutual Fund",
+        "instrument": "Mutual Funds"
+    },
+    {
+        "id": 270,
+        "symbol": "IFIL",
+        "name": "Imperial Financial Inst. Ltd.",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 271,
+        "symbol": "SODBL",
+        "name": "Society Development Bank Ltd.",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 272,
+        "symbol": "CMBSL",
+        "name": "Civil Merchant Bittiya Santha Ltd.",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 273,
+        "symbol": "ICFC",
+        "name": "ICFC Finance Limited",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 274,
+        "symbol": "EDBL",
+        "name": "Excel Development Bank Ltd.",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 275,
+        "symbol": "MLBL1",
+        "name": "Mahalaxmi BikasBank Limited",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 277,
+        "symbol": "EBLCP",
+        "name": "Everest Bank Limited Con. Pref.",
+        "sector": "Preference Shares",
+        "instrument": "Preference Shares"
+    },
+    {
+        "id": 278,
+        "symbol": "NEFL",
+        "name": "Nepal Express Finance Ltd.",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 279,
+        "symbol": "BLDBL",
+        "name": "Biratlaxmi Bikas Bank Limited",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 280,
+        "symbol": "SIL",
+        "name": "Siddhartha Insurance Ltd.",
+        "sector": "Non Life Insurance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 290,
+        "symbol": "IDBL",
+        "name": "Infrastructure Development Bank Ltd.",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 296,
+        "symbol": "CEFL",
+        "name": "City Express Finance Co. Limited",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 307,
+        "symbol": "NTC",
+        "name": "Nepal Doorsanchar Company Limited",
+        "sector": "Others",
+        "instrument": "Equity"
+    },
+    {
+        "id": 308,
+        "symbol": "PRBBL",
+        "name": "Prabhu Bikas Bank Limited",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 311,
+        "symbol": "DBBL",
+        "name": "Deva Bikas Bank Limited",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 320,
+        "symbol": "LBFIL",
+        "name": "Lord Buddha Finance Limited",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 321,
+        "symbol": "SAFL",
+        "name": "Sagarmatha  Finance Limited",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 331,
+        "symbol": "SUBBL",
+        "name": "Subhechha Bikas Bank Limited",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 332,
+        "symbol": "KAFIL",
+        "name": "Kaski Finance Limited",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 336,
+        "symbol": "CEDBL",
+        "name": "Clean Energy Development Bank Limited",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 337,
+        "symbol": "TBBL",
+        "name": "Triveni Bikas Bank Limited",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 338,
+        "symbol": "PROFL",
+        "name": "Progressive Finance Limited",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 340,
+        "symbol": "PGBL",
+        "name": "Purwanchal Grameen Bikash Bank Limited",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 341,
+        "symbol": "GBIME",
+        "name": "Global IME Bank Limited",
+        "sector": "Commercial Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 342,
+        "symbol": "REDBL",
+        "name": "Reliable Development Bank Limited",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 344,
+        "symbol": "AXIS",
+        "name": "Axis Development Bank Limited",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 345,
+        "symbol": "SBSL",
+        "name": "Shikhar Finance Limited",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 348,
+        "symbol": "CZBIL",
+        "name": "Citizens Bank International Limited",
+        "sector": "Commercial Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 349,
+        "symbol": "BOAN",
+        "name": "Bank of Asia Nepal Limited",
+        "sector": "Commercial Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 356,
+        "symbol": "AFL",
+        "name": "Api Finance Limited",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 357,
+        "symbol": "PCBL",
+        "name": "Prime Commercial Bank Ltd.",
+        "sector": "Commercial Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 358,
+        "symbol": "LBBL",
+        "name": "Lumbini Bikas Bank Ltd.",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 359,
+        "symbol": "SRBL",
+        "name": "Sunrise Bank Limited",
+        "sector": "Commercial Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 360,
+        "symbol": "AHPC",
+        "name": "Arun Valley Hydropower Development Co. Ltd.",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 361,
+        "symbol": "CFL",
+        "name": "Crystal Finance Ltd.",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 364,
+        "symbol": "MGBL",
+        "name": "Madhyamanchal Gramin Development Bank Ltd.",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 367,
+        "symbol": "PDB",
+        "name": "Public Development Bank Limited",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 370,
+        "symbol": "MBBL",
+        "name": "Mahakali Bikas Bank Limited",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 371,
+        "symbol": "MDB",
+        "name": "Miteri Development Bank Limited",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 383,
+        "symbol": "PBSL",
+        "name": "Pathibhara Bikas Bank Limited",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 384,
+        "symbol": "RBSL",
+        "name": "Resunga Bikas Bank Limited",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 385,
+        "symbol": "ALICL",
+        "name": "Asian Life Insurance Co. Limited",
+        "sector": "Life Insurance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 388,
+        "symbol": "KDBL",
+        "name": "Kasthamandap Development Bank Limited",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 389,
+        "symbol": "SEWA",
+        "name": "Sewa Bikas Bank Limited",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 393,
+        "symbol": "PLIC",
+        "name": "Prime Life Insurance Company Limited",
+        "sector": "Life Insurance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 394,
+        "symbol": "NGBL",
+        "name": "Nilgiri Bikas Bank Limited",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 396,
+        "symbol": "NLBBL",
+        "name": "Nerude Laghubitta Bittiya Sanstha Limited",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 397,
+        "symbol": "ADBL",
+        "name": "Agricultural Development Bank Limited",
+        "sector": "Commercial Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 398,
+        "symbol": "ODBL",
+        "name": "Om Development Bank Ltd.",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 401,
+        "symbol": "MLBL",
+        "name": "Mahalaxmi Bikas Bank Ltd.",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 403,
+        "symbol": "SLICL",
+        "name": "Surya Life Insurance Company Limited",
+        "sector": "Life Insurance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 405,
+        "symbol": "UBBL",
+        "name": "Udhyam Bikas Bank Limited",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 406,
+        "symbol": "ALDBL",
+        "name": "Alpine Development Bank Limited",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 407,
+        "symbol": "SDFL",
+        "name": "Suryadarshan Finance Company Limited",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 408,
+        "symbol": "ZFL",
+        "name": "Zenith Finance Limited",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 409,
+        "symbol": "SMF",
+        "name": "Swastik Merchant Finance Co. Ltd.",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 411,
+        "symbol": "SLFL",
+        "name": "Subha Laxmi Finance Co. Ltd.",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 412,
+        "symbol": "GSDBL",
+        "name": "Gaurishankar Development Bank Ltd.",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 413,
+        "symbol": "UFIL",
+        "name": "Unique Finance Ltd.",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 414,
+        "symbol": "PRDBL",
+        "name": "Professional Diyalo Bikas Bank Ltd.",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 416,
+        "symbol": "SETI",
+        "name": "Seti Finance Limited",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 417,
+        "symbol": "GBBL",
+        "name": "Garima Bikas Bank Limited",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 418,
+        "symbol": "JBBL",
+        "name": "Jyoti Bikas Bank Limited",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 419,
+        "symbol": "KNBL",
+        "name": "Kankai Bikas Bank Ltd.",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 420,
+        "symbol": "GDBL",
+        "name": "Gandaki Bikas Bank Limited",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 421,
+        "symbol": "HATH",
+        "name": "Hathway Finance Company Limited",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 427,
+        "symbol": "KEBL",
+        "name": "Kabeli Bikas Bank Limited",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 428,
+        "symbol": "KRBL",
+        "name": "Karnali Development Bank Limited",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 441,
+        "symbol": "HFL",
+        "name": "Himalayan Finance Limited (Bittiya Sanstha)",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 442,
+        "symbol": "TNBL",
+        "name": "Tinau Development Bank Limited",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 443,
+        "symbol": "ARDBL",
+        "name": "Araniko Development Bank Limited",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 444,
+        "symbol": "VFL",
+        "name": "Valley Finance Limited",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 445,
+        "symbol": "WDBL",
+        "name": "Western Development Bank Limited",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 446,
+        "symbol": "PRBL",
+        "name": "Professional Bikas Bank Ltd.",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 447,
+        "symbol": "GLICL",
+        "name": "Gurans Life Insurance Company Ltd.",
+        "sector": "Life Insurance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 448,
+        "symbol": "CNDBL",
+        "name": "Country Development Bank Ltd.",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 450,
+        "symbol": "CORBL",
+        "name": "Corporate Development Bank Limited",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 451,
+        "symbol": "PURBL",
+        "name": "Purnima Bikas Bank Ltd.",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 459,
+        "symbol": "KSBBL",
+        "name": "Kamana Sewa Bikas Bank Limited",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 460,
+        "symbol": "RARA",
+        "name": "Rara Bikas Bank Limited",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 470,
+        "symbol": "HAMA",
+        "name": "Hama Merchant & Finance Ltd.",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 471,
+        "symbol": "MPFL",
+        "name": "Multipurpose Finance Company  Limited",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 472,
+        "symbol": "SADBL",
+        "name": "Shangrila Development Bank Ltd.",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 473,
+        "symbol": "SHINE",
+        "name": "Shine Resunga Development Bank Ltd.",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 474,
+        "symbol": "MNBBL",
+        "name": "Muktinath Bikas Bank Ltd.",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 487,
+        "symbol": "BHBL",
+        "name": "Bhargav Bikash Bank Ltd.",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 489,
+        "symbol": "BGDBL",
+        "name": "Bagmati Development Bank Ltd.",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 490,
+        "symbol": "FMDBL",
+        "name": "First Micro Finance Laghubitta Bittiya Sanstha Limited",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 496,
+        "symbol": "JBNL",
+        "name": "Janata Bank Nepal Ltd.",
+        "sector": "Commercial Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 502,
+        "symbol": "SMFDB",
+        "name": "Summit Laghubitta Bittiya Sanstha Limited",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 503,
+        "symbol": "TDBL",
+        "name": "Tourism Development Bank Limited",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 504,
+        "symbol": "GULMI",
+        "name": "Gulmi Bikas Bank Ltd.",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 505,
+        "symbol": "KADBL",
+        "name": "Kanchan Development Bank Limited",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 506,
+        "symbol": "NCDBL",
+        "name": "Nepal Consumer Development Bank Ltd.",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 512,
+        "symbol": "PADBL",
+        "name": "Pacific Development Bank Limited",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 513,
+        "symbol": "METRO",
+        "name": "Metro Development Bank Limited",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 514,
+        "symbol": "RDBL",
+        "name": "Rising Development Bank Ltd.",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 516,
+        "symbol": "MFIL",
+        "name": "Manjushree Finance Ltd.",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 517,
+        "symbol": "NBL",
+        "name": "Nepal Bank Limited",
+        "sector": "Commercial Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 526,
+        "symbol": "SIGS1",
+        "name": "Siddhartha Investment Growth Scheme-1",
+        "sector": "Mutual Fund",
+        "instrument": "Mutual Funds"
+    },
+    {
+        "id": 529,
+        "symbol": "INDB",
+        "name": "Innovative Development Bank Ltd.",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 531,
+        "symbol": "KKBL",
+        "name": "Kakre Bihar Bikash Bank Ltd",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 532,
+        "symbol": "CBL",
+        "name": "Civil Bank Ltd",
+        "sector": "Commercial Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 533,
+        "symbol": "CIVIC",
+        "name": "Civic Development Bank Ltd",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 535,
+        "symbol": "BRTBL",
+        "name": "Bright Development Bank Ltd",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 536,
+        "symbol": "INDBL",
+        "name": "International Development Bank Ltd",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 537,
+        "symbol": "KHDBL",
+        "name": "Khandbari Development Bank Ltd",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 538,
+        "symbol": "NBF1",
+        "name": "Nabil Balance Fund 1",
+        "sector": "Mutual Fund",
+        "instrument": "Mutual Funds"
+    },
+    {
+        "id": 539,
+        "symbol": "CTBNL",
+        "name": "Commerz and Trust Bank Nepal Ltd.",
+        "sector": "Commercial Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 545,
+        "symbol": "SLBBL",
+        "name": "Swarojgar Laghu Bitta Bikas Bank Ltd.",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 559,
+        "symbol": "NLG",
+        "name": "NLG Insurance Company Ltd.",
+        "sector": "Non Life Insurance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 561,
+        "symbol": "SINDU",
+        "name": "Sindhu Bikash Bank Ltd",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 562,
+        "symbol": "MEGA",
+        "name": "Mega  Bank Nepal Ltd.",
+        "sector": "Commercial Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 563,
+        "symbol": "JHBL",
+        "name": "Jhimruk Bikas Bank Ltd.",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 570,
+        "symbol": "MIDBL",
+        "name": "Mission Development Bank Ltd.",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 571,
+        "symbol": "NBSL",
+        "name": "Namaste Bittiya Sanstha Ltd.",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 572,
+        "symbol": "GABL",
+        "name": "Gaumukhee Bikas Bank Ltd.",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 574,
+        "symbol": "SKBBL",
+        "name": "Sana Kisan Bikas Laghubitta Bittiya Sanstha Limited",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 575,
+        "symbol": "RMDC",
+        "name": "RMDC Laghubitta Bittiya Sanstha Ltd.",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 576,
+        "symbol": "HAMRO",
+        "name": "Hamro Bikas Bank Ltd.",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 577,
+        "symbol": "JEFL",
+        "name": "Jebils Finance Ltd.",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 583,
+        "symbol": "GBLBS",
+        "name": "Grameen Bikas Laghubitta Bittiya Sanstha Ltd.",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 587,
+        "symbol": "RLFL",
+        "name": "Reliance Finance Ltd.",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 588,
+        "symbol": "MSBBL",
+        "name": "Manaslu Bikas Bank Ltd.",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 591,
+        "symbol": "SHPC",
+        "name": "Sanima Mai Hydropower Ltd.",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 592,
+        "symbol": "NSLB",
+        "name": "Naya Sarathi Laghubitta Bittiya Sanstha Limited",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 593,
+        "symbol": "KMCDB",
+        "name": "Kalika Laghubitta Bittiya Sanstha Ltd",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 595,
+        "symbol": "MTBL",
+        "name": "Matribhumi Development Bank Ltd.",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 598,
+        "symbol": "NCDB",
+        "name": "Nepal Community Development Bank Ltd.",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 600,
+        "symbol": "CSDBL",
+        "name": "Cosmos Development Bank Ltd.",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 601,
+        "symbol": "MLBBL",
+        "name": "Mithila LaghuBitta Bittiya Sanstha Limited",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 602,
+        "symbol": "NBBL",
+        "name": "NagBeli LaghuBitta Bikas Bank Ltd.",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 605,
+        "symbol": "CCBL",
+        "name": "Century Commercial Bank Ltd.",
+        "sector": "Commercial Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 608,
+        "symbol": "TRHPR",
+        "name": "Taragaon Regency Hotels Ltd. Preference Share",
+        "sector": "Preference Shares",
+        "instrument": "Preference Shares"
+    },
+    {
+        "id": 610,
+        "symbol": "RIDI",
+        "name": "Ridi Power Company Limited",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 614,
+        "symbol": "MMDBL",
+        "name": "Mount Makalu Development Bank Ltd.",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 616,
+        "symbol": "SEOS",
+        "name": "Siddhartha Equity Orineted Scheme",
+        "sector": "Mutual Fund",
+        "instrument": "Mutual Funds"
+    },
+    {
+        "id": 617,
+        "symbol": "EKBL",
+        "name": "Ekata Bikas Bank Ltd.",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 618,
+        "symbol": "LLBS",
+        "name": "Laxmi Laghubitta Bittiya Sanstha Ltd.",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 625,
+        "symbol": "SHBL",
+        "name": "Sahara Bikas Bank Ltd.",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 627,
+        "symbol": "KCDBL",
+        "name": "Kalinchowk Development Bank Ltd.",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 629,
+        "symbol": "NMBSF1",
+        "name": "NMB Sulav Investment Fund-1",
+        "sector": "Mutual Fund",
+        "instrument": "Mutual Funds"
+    },
+    {
+        "id": 636,
+        "symbol": "NIBSF1",
+        "name": "NIBL Samriddhi Fund 1",
+        "sector": "Mutual Fund",
+        "instrument": "Mutual Funds"
+    },
+    {
+        "id": 674,
+        "symbol": "LVF1",
+        "name": "Laxmi Value Fund-1",
+        "sector": "Mutual Fund",
+        "instrument": "Mutual Funds"
+    },
+    {
+        "id": 679,
+        "symbol": "RBBBL",
+        "name": "Raptibheri Bikas Bank Ltd.",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 680,
+        "symbol": "BFCL",
+        "name": "Bhaktapur Finance Co. Ltd.",
+        "sector": "Finance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 682,
+        "symbol": "MMFDB",
+        "name": "Mirmire Laghubitta Bittya Sanstha Limited",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 686,
+        "symbol": "BARUN",
+        "name": "Barun Hydropower Co. Ltd.",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 687,
+        "symbol": "VLBS",
+        "name": "Vijaya laghubitta Bittiya Sanstha Ltd.",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 691,
+        "symbol": "MSMBS",
+        "name": "Mahila Sahayatra Microfinance Bittiya Sanstha Ltd.",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 692,
+        "symbol": "SBLD78",
+        "name": "7.5% sbl debenture",
+        "sector": "Mutual Fund",
+        "instrument": "Mutual Funds"
+    },
+    {
+        "id": 693,
+        "symbol": "CLBSL",
+        "name": "Civil Laghubitta Bittiya Sanstha Ltd.",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 694,
+        "symbol": "KLBSL",
+        "name": "Kisan Lagubitta Bittiya Sanstha Limited",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 695,
+        "symbol": "JSLBB",
+        "name": "Janautthan Samudayic Laghubitta Bittya Sanstha Limited",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 697,
+        "symbol": "API",
+        "name": "Api Power Company Ltd.",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 704,
+        "symbol": "NMBMF",
+        "name": "NMB  Microfinance Bittiya Sanstha Ltd.",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 705,
+        "symbol": "GILB",
+        "name": "Global IME Laghubitta Bittiya Sanstha Ltd.",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 706,
+        "symbol": "SWMF",
+        "name": "Suryodaya Womi Laghubitta Bittiya Sanstha Limited",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 1733,
+        "symbol": "SKDBL",
+        "name": "Saptakoshi Development Bank Ltd.",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 1735,
+        "symbol": "SAJHA",
+        "name": "Sajha Bikas Bank Ltd.",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 1740,
+        "symbol": "GIMES1",
+        "name": "Global IME Samunnat Scheme-1",
+        "sector": "Mutual Fund",
+        "instrument": "Mutual Funds"
+    },
+    {
+        "id": 1741,
+        "symbol": "MERO",
+        "name": "Mero Microfinance Bittiya Sanstha Ltd.",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2742,
+        "symbol": "HIDCL",
+        "name": "Hydorelectricity Investment and Development Company Ltd",
+        "sector": "Investment",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2743,
+        "symbol": "NGPL",
+        "name": "Ngadi Group Power Ltd.",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2744,
+        "symbol": "GRDBL",
+        "name": "Green Development Bank Ltd.",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2746,
+        "symbol": "NMFBS",
+        "name": "National Microfinance Laghubitta Bittiya Sanstha Limited",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2748,
+        "symbol": "RSDC",
+        "name": "RSDC Laghubitta Bittiya Sanstha Ltd.",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2750,
+        "symbol": "SLBS",
+        "name": "Suryodaya Laghubitta Bittiya Sanstha Ltd.",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2751,
+        "symbol": "KKHC",
+        "name": "Khanikhola Hydropower Co. Ltd.",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2752,
+        "symbol": "NMBHF1",
+        "name": "NMB Hybrid Fund L-1",
+        "sector": "Mutual Fund",
+        "instrument": "Mutual Funds"
+    },
+    {
+        "id": 2753,
+        "symbol": "NEF",
+        "name": "Nabil Equity Fund",
+        "sector": "Mutual Fund",
+        "instrument": "Mutual Funds"
+    },
+    {
+        "id": 2754,
+        "symbol": "DHPL",
+        "name": "Dibyashwori Hydropower Ltd.",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2755,
+        "symbol": "NIBLPF",
+        "name": "NIBL Pragati Fund",
+        "sector": "Mutual Fund",
+        "instrument": "Mutual Funds"
+    },
+    {
+        "id": 2757,
+        "symbol": "AKPL",
+        "name": "Arun Kabeli Power Ltd.",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2758,
+        "symbol": "FOWAD",
+        "name": "Forward Microfinance Laghubitta Bittiya Sanstha Limited",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2759,
+        "symbol": "SPDL",
+        "name": "Synergy Power Development Ltd.",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2760,
+        "symbol": "UMHL",
+        "name": "United Modi Hydropower Ltd.",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2761,
+        "symbol": "SMATA",
+        "name": "Samata Gharelu Laghubitta Bittiya Sanstha Limited",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2764,
+        "symbol": "SDESI",
+        "name": "Swadeshi Laghubitta Bittiya Sanstha Ltd.",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2765,
+        "symbol": "LEMF",
+        "name": "Laxmi Equity Fund",
+        "sector": "Mutual Fund",
+        "instrument": "Mutual Funds"
+    },
+    {
+        "id": 2766,
+        "symbol": "CHL",
+        "name": "Chhyangdi Hydropower Ltd.",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2767,
+        "symbol": "HPPL",
+        "name": "Himalayan Power Partner Ltd.",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2768,
+        "symbol": "MSLB",
+        "name": "Mahuli Laghubitta Bittiya Sanstha Limited",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2769,
+        "symbol": "NHDL",
+        "name": "Nepal Hydro Developers Ltd.",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2770,
+        "symbol": "SEF",
+        "name": "Siddhartha Equity Fund",
+        "sector": "Mutual Fund",
+        "instrument": "Mutual Funds"
+    },
+    {
+        "id": 2771,
+        "symbol": "SMB",
+        "name": "Support Microfinance Bittiya Sanstha Ltd.",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2773,
+        "symbol": "SAEF",
+        "name": "Sanima Equity Fund",
+        "sector": "Mutual Fund",
+        "instrument": "Mutual Funds"
+    },
+    {
+        "id": 2774,
+        "symbol": "USLB",
+        "name": "Unnati Sahakarya Laghubitta Bittiya Sanstha Limited",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2776,
+        "symbol": "RADHI",
+        "name": "Radhi Bidyut Company Ltd",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2777,
+        "symbol": "AMFI",
+        "name": "Arambha Microfinance Bittiya Sanstha Ltd.",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2779,
+        "symbol": "NICGF",
+        "name": "NIC Asia Growth Fund",
+        "sector": "Mutual Fund",
+        "instrument": "Mutual Funds"
+    },
+    {
+        "id": 2780,
+        "symbol": "CMF1",
+        "name": "Citizens Mutual Fund -1",
+        "sector": "Mutual Fund",
+        "instrument": "Mutual Funds"
+    },
+    {
+        "id": 2781,
+        "symbol": "WNLB",
+        "name": "Wean Nepal Laghubitta Bittiya Sanstha Limited",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2783,
+        "symbol": "RRHP",
+        "name": "Rairang Hydropower Development Company Ltd.",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2784,
+        "symbol": "NADEP",
+        "name": "Nadep Laghubittiya bittya Sanstha Ltd.",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2786,
+        "symbol": "PMHPL",
+        "name": "Panchakanya Mai Hydropower Ltd",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2787,
+        "symbol": "KPCL",
+        "name": "Kalika power Company Ltd",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2788,
+        "symbol": "AKJCL",
+        "name": "Ankhu Khola Jalvidhyut Company Ltd",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2789,
+        "symbol": "JOSHI",
+        "name": "Joshi Hydropower Development Company Ltd",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2790,
+        "symbol": "ACLBSL",
+        "name": "Aarambha Chautari Laghubitta Bittiya Sanstha Limited",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2792,
+        "symbol": "UPPER",
+        "name": "Upper Tamakoshi Hydropower Ltd",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2804,
+        "symbol": "SLBSL",
+        "name": "Samudayik Laghubitta Bittiya Sanstha Limited",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2806,
+        "symbol": "GHL",
+        "name": "Ghalemdi Hydro Limited",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2807,
+        "symbol": "ALBSL",
+        "name": "Asha Laghubitta Bittiya Sanstha Ltd",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2809,
+        "symbol": "SHIVM",
+        "name": "SHIVAM CEMENTS LTD",
+        "sector": "Manufacturing And Processing",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2810,
+        "symbol": "UPCL",
+        "name": "UNIVERSAL POWER COMPANY LTD",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2811,
+        "symbol": "MHNL",
+        "name": "Mountain Hydro Nepal Limited",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2812,
+        "symbol": "SPARS",
+        "name": "Sparsha Laghubitta Bittiya Sanstha Limited",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2813,
+        "symbol": "PPCL",
+        "name": "Panchthar Power Compant Limited",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2815,
+        "symbol": "GMFBS",
+        "name": "Ganapati Laghubitta Bittiya Sanstha Limited",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2816,
+        "symbol": "NAGRO",
+        "name": "Nepal Agro Laghubitta Bittiya Sanstha Limited",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2824,
+        "symbol": "HURJA",
+        "name": "Himalaya Urja Bikas Company Limited",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2825,
+        "symbol": "NICAD 85/86",
+        "name": "10% NIC Asia Debenture 2085/86",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 2826,
+        "symbol": "GLBSL",
+        "name": "Gurans Laghubitta Bittiya Sanstha Limited",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2828,
+        "symbol": "SAND2085",
+        "name": "10% Sanima Bank Limited Debenture",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 2829,
+        "symbol": "SMFBS",
+        "name": "Swabhimaan Laghubitta Bittiya Sanstha Limited",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2831,
+        "symbol": "UNHPL",
+        "name": "Union Hydropower Limited",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2832,
+        "symbol": "ILBS",
+        "name": "Infinity Laghubitta Bittiya Sanstha Limited",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2834,
+        "symbol": "SRD80",
+        "name": "10% Sunrise Debenture 2080",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 2835,
+        "symbol": "NBF2",
+        "name": "NABIL BALANCED FUND-2",
+        "sector": "Mutual Fund",
+        "instrument": "Mutual Funds"
+    },
+    {
+        "id": 2840,
+        "symbol": "GBD80/81",
+        "name": "10.25% GLOBAL IME BANK LTD. DEBENTURE 2080/81",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 2841,
+        "symbol": "RHPL",
+        "name": "RASUWAGADHI HYDROPOWER COMPANY LIMITED",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2842,
+        "symbol": "SJCL",
+        "name": "SANJEN JALAVIDHYUT COMPANY LIMITED",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2843,
+        "symbol": "SABSL",
+        "name": "Sabaiko Laghubitta Bittiya Sanstha Limited",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2845,
+        "symbol": "AKBSL",
+        "name": "Adhikhola Laghubitta Bittiya Sanstha Limited",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2850,
+        "symbol": "NMBD2085",
+        "name": "10 % NMB DEBENTURE 2085",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 2851,
+        "symbol": "NIBD2082",
+        "name": "10.5 % NEPAL INVESTMENT DEBENTURE 2082",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 2852,
+        "symbol": "GGBSL",
+        "name": "Ghodighoda Laghubitta Bittiya Sanstha Ltd.",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2854,
+        "symbol": "NBBD2085",
+        "name": "10.25% NBBL Debenture 2085",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 2855,
+        "symbol": "TMDBL",
+        "name": "Tinau Mission Development Bank Limited",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2859,
+        "symbol": "SIGS2",
+        "name": "Siddhartha Investment Growth Scheme - 2",
+        "sector": "Mutual Fund",
+        "instrument": "Mutual Funds"
+    },
+    {
+        "id": 2860,
+        "symbol": "SAPDBL",
+        "name": "Saptakoshi Development Bank Ltd",
+        "sector": "Development Bank",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2862,
+        "symbol": "CMF2",
+        "name": "CITIZENS MUTUAL FUND 2",
+        "sector": "Mutual Fund",
+        "instrument": "Mutual Funds"
+    },
+    {
+        "id": 2863,
+        "symbol": "NICBF",
+        "name": "NIC Asia Balanced Fund",
+        "sector": "Mutual Fund",
+        "instrument": "Mutual Funds"
+    },
+    {
+        "id": 2864,
+        "symbol": "SBLD83",
+        "name": "10.25% SBL Debenture 2083",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 2866,
+        "symbol": "MBLD2085",
+        "name": "10.25% Machhapuchhre Bank Debenture 2085",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 2867,
+        "symbol": "NMB50",
+        "name": "NMB 50",
+        "sector": "Mutual Fund",
+        "instrument": "Mutual Funds"
+    },
+    {
+        "id": 2868,
+        "symbol": "NICD83/84",
+        "name": "10.25% NIC Asia Debenture 2083/84",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 2869,
+        "symbol": "NICAD8283",
+        "name": "11% NIC Asia Debenture 082/83",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 2870,
+        "symbol": "BOKD2079",
+        "name": "8% BOK Debenture 2079",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 2871,
+        "symbol": "EBLD2078",
+        "name": "8% EBL Debenture 2078",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 2872,
+        "symbol": "SBLD2082",
+        "name": "10.50% SBL Debenture 2082",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 2873,
+        "symbol": "HBLD83",
+        "name": "10% Himalayan Bank Debenture 2083",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 2875,
+        "symbol": "PBLD86",
+        "name": "10.25% Prabhu Bank  Debenture 2086",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 2877,
+        "symbol": "SFMF",
+        "name": "Sunrise First Mutual Fund",
+        "sector": "Mutual Fund",
+        "instrument": "Mutual Funds"
+    },
+    {
+        "id": 2878,
+        "symbol": "SRBLD83",
+        "name": "10.25% Sunrise Bank Debenture 2083",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 2879,
+        "symbol": "LBLD86",
+        "name": "10% Laxmi Bank Debenture 2086",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 2880,
+        "symbol": "HDHPC",
+        "name": "Himal Dolakha Hydropower Company Limited",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2881,
+        "symbol": "NRIC",
+        "name": "Nepal Reinsurance Company Limited",
+        "sector": "Others",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2882,
+        "symbol": "ICFCD83",
+        "name": "12% ICFC Finance Limited Debenture 2083",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 2883,
+        "symbol": "GWFD83",
+        "name": "12 % Goodwill Finance Limited Debenture 2083",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 2885,
+        "symbol": "KBLD86",
+        "name": "10.25% KBL Debenture 2086",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 2886,
+        "symbol": "ADBLD83",
+        "name": "10.35% Agricultural Bank Debenture 2083",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 2887,
+        "symbol": "NICLBSL",
+        "name": "NIC ASIA Laghubitta Bittiya Sanstha Limited",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2889,
+        "symbol": "CIZBD86",
+        "name": "10.25% Citizens Bank Debenture 2086",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 2890,
+        "symbol": "SBIBD86",
+        "name": "10% Nepal SBI Bank Debenture 2086",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 2892,
+        "symbol": "NBLD82",
+        "name": "10% Nabil Debenture 2082",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 2893,
+        "symbol": "AIL",
+        "name": "Ajod Insurance Limited",
+        "sector": "Non Life Insurance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2895,
+        "symbol": "NICAD8182",
+        "name": "9% NIC Asia Debenture 2081/82",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 2896,
+        "symbol": "SDLBSL",
+        "name": "Sadhana Laghubitta Bittiya Sanstha Limited",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2898,
+        "symbol": "NRN",
+        "name": "NRN Infrastructure and Development Limited",
+        "sector": "Investment",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2900,
+        "symbol": "RLI",
+        "name": "Reliance Life Insurance Limited",
+        "sector": "Life Insurance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2902,
+        "symbol": "LUK",
+        "name": "Laxmi Unnati Kosh",
+        "sector": "Mutual Fund",
+        "instrument": "Mutual Funds"
+    },
+    {
+        "id": 2903,
+        "symbol": "LEC",
+        "name": "Liberty Energy Company Limited",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2904,
+        "symbol": "PBLD84",
+        "name": "10% Prabhu Bank Debenture 2084 ",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 2905,
+        "symbol": "GIC",
+        "name": "General Insurance Company Nepal Ltd",
+        "sector": "Non Life Insurance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2907,
+        "symbol": "SSHL",
+        "name": "Shiva Shree Hydropower Ltd",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2908,
+        "symbol": "SGI",
+        "name": "Sanima General Insurance Limited",
+        "sector": "Non Life Insurance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2912,
+        "symbol": "SBLD84",
+        "name": "8.5% SBL Debenture 2084",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 2913,
+        "symbol": "MEN",
+        "name": "Mountain Energy Nepal Limited",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2914,
+        "symbol": "UMRH",
+        "name": "United IDI Mardi RB Hydropower Limited.",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2915,
+        "symbol": "PLI",
+        "name": "Prabhu Life Insurance Limited",
+        "sector": "Life Insurance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2917,
+        "symbol": "CGH",
+        "name": "Chandragiri Hills Limited",
+        "sector": "Hotels And Tourism",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2919,
+        "symbol": "NIFRA",
+        "name": "Nepal Infrastructure Bank Limited",
+        "sector": "Investment",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2922,
+        "symbol": "SBD87",
+        "name": "8.5% Sanima Debenture 2087",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 2923,
+        "symbol": "SLCF",
+        "name": "Sanima Large Cap Fund",
+        "sector": "Mutual Fund",
+        "instrument": "Mutual Funds"
+    },
+    {
+        "id": 2924,
+        "symbol": "GLH",
+        "name": "GreenLife Hydropower Limited",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2925,
+        "symbol": "MLBSL",
+        "name": "Mahila Lagubitta Bittiya Sanstha Limited ",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2929,
+        "symbol": "JLI",
+        "name": "Jyoti Life Insurance Company Limited",
+        "sector": "Life Insurance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2931,
+        "symbol": "NIBD84",
+        "name": "8.5% Nepal Investment Bank Debenture 2084",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 2932,
+        "symbol": "MFLD85",
+        "name": "9.5% Manjushree Finance Limited Debenture 2085",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 2933,
+        "symbol": "KEF",
+        "name": "Kumari Equity Fund",
+        "sector": "Mutual Fund",
+        "instrument": "Mutual Funds"
+    },
+    {
+        "id": 2934,
+        "symbol": "SHEL",
+        "name": "Singati Hydro Energy Limited",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2935,
+        "symbol": "RURU",
+        "name": "Ru Ru Jalbidhyut Pariyojana Limited",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 2936,
+        "symbol": "NCCD86",
+        "name": "9.5% NCC Debenture 2086",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 2937,
+        "symbol": "SBCF",
+        "name": "Sunrise Bluechip Fund",
+        "sector": "Mutual Fund",
+        "instrument": "Mutual Funds"
+    },
+    {
+        "id": 3946,
+        "symbol": "CHDC",
+        "name": "CEDB Hydropower Development Company Limited",
+        "sector": "Investment",
+        "instrument": "Equity"
+    },
+    {
+        "id": 4947,
+        "symbol": "PSF",
+        "name": "Prabhu Select Fund",
+        "sector": "Mutual Fund",
+        "instrument": "Mutual Funds"
+    },
+    {
+        "id": 4948,
+        "symbol": "KSBBLD87",
+        "name": "9% Kamana Sewa Bikas Bank Limited Debenture 2087",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 4949,
+        "symbol": "NIBSF2",
+        "name": "NIBL Samriddhi Fund -2",
+        "sector": "Mutual Fund",
+        "instrument": "Mutual Funds"
+    },
+    {
+        "id": 4951,
+        "symbol": "JBLB",
+        "name": "Jeevan Bikas Laghubitta  Bittya Sanstha Ltd",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 4955,
+        "symbol": "MKLB",
+        "name": "Manakamana Smart Laghubitta Bittiya Sanstha Limited",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 4956,
+        "symbol": "ULI",
+        "name": "Union Life Insurance Company Limited",
+        "sector": "Life Insurance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 4959,
+        "symbol": "NBLD87",
+        "name": "8.5% Nepal Bank Debenture 2087",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 4960,
+        "symbol": "ADBLB",
+        "name": "4% Agricultural Bond",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 4961,
+        "symbol": "BOKD86",
+        "name": "8.5% BOK Debenture 2086",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 4962,
+        "symbol": "PBLD87",
+        "name": "8.5% Prabhu Bank Debenture 2087",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 4963,
+        "symbol": "NMBD87/88",
+        "name": "NMB Debenture 8.50% - 2087/88",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 4964,
+        "symbol": "NMBEB92/93",
+        "name": "NMB Energy Bond 4% - 2092/93",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 4965,
+        "symbol": "SAMAJ",
+        "name": "Samaj  Laghubittya Bittiya Sanstha Limited",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 4967,
+        "symbol": "NICSF",
+        "name": "NIC Asia Select Fund 30",
+        "sector": "Mutual Fund",
+        "instrument": "Mutual Funds"
+    },
+    {
+        "id": 4968,
+        "symbol": "RMF1",
+        "name": "RBB Mutual Fund 1",
+        "sector": "Mutual Fund",
+        "instrument": "Mutual Funds"
+    },
+    {
+        "id": 4969,
+        "symbol": "MND84/85",
+        "name": "Muktinath Debenture 2084/85",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 5982,
+        "symbol": "SLI",
+        "name": "Sanima Life Insurance Limited",
+        "sector": "Life Insurance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 5984,
+        "symbol": "LBLD88",
+        "name": "8.5% Laxmi Bank Debenture 2088",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 6984,
+        "symbol": "PBD85",
+        "name": "8.75 % Prime Debenture 2085",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 6985,
+        "symbol": "SDBD87",
+        "name": "Shangri-la Development Bank Debenture 2087",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 7985,
+        "symbol": "MBLD87",
+        "name": "8.5% Machhapuchchhre Debenture 2087",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 7986,
+        "symbol": "NICD88",
+        "name": "NIC ASIA Rinpatra 2088",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 8003,
+        "symbol": "RBBD83",
+        "name": "8.5% RBBL Debenture 2083",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 8004,
+        "symbol": "GBILD86/87",
+        "name": "Global IME Bank Limited Debenture 2086/87",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 8005,
+        "symbol": "MKJC",
+        "name": "Mailung Khola Jal Vidhyut Company Limited",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 8018,
+        "symbol": "MLBS",
+        "name": "Manushi Laghubitta Bittiya Sanstha Limited",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 8020,
+        "symbol": "JBBD87",
+        "name": "Jyoti Bikash Bank Bond 2087",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 8021,
+        "symbol": "SAHAS",
+        "name": "Sahas Urja Limited",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 8022,
+        "symbol": "TPC",
+        "name": "Terhathum Power Company Limited",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 8023,
+        "symbol": "MMF1",
+        "name": "Mega Mutual Fund -1",
+        "sector": "Mutual Fund",
+        "instrument": "Mutual Funds"
+    },
+    {
+        "id": 8024,
+        "symbol": "NBF3",
+        "name": "Nabil Balanced Fund-3",
+        "sector": "Mutual Fund",
+        "instrument": "Mutual Funds"
+    },
+    {
+        "id": 8025,
+        "symbol": "SPC",
+        "name": "Samling Power Company Limited",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 8026,
+        "symbol": "NYADI",
+        "name": "Nyadi Hydropower Limited",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 8027,
+        "symbol": "NBLD85",
+        "name": "Nabil Debenture 2085",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 8029,
+        "symbol": "ADBLB86",
+        "name": "Agricultural Bond (8 Year)",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 8030,
+        "symbol": "ADBLB87",
+        "name": "Agricultural Bond (9 Year)",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 8031,
+        "symbol": "MBJC",
+        "name": "Madhya Bhotekoshi Jalavidyut Company Limited",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 8032,
+        "symbol": "BNHC",
+        "name": "Buddha Bhumi Nepal Hydropower Company Limited",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 8033,
+        "symbol": "GBBD85",
+        "name": "Garima Debenture, 2085",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 8034,
+        "symbol": "ENL",
+        "name": "Emerging Nepal Limited",
+        "sector": "Investment",
+        "instrument": "Equity"
+    },
+    {
+        "id": 8036,
+        "symbol": "RULB",
+        "name": "Rastra Utthan Laghubitta Sanstha Limited",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 8038,
+        "symbol": "JALPA",
+        "name": "Jalpa Samudayik Laghubitta Bittiya Sanstha Limited",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 8041,
+        "symbol": "NESDO",
+        "name": "NESDO Sambridha Laghubitta Bittiya Sanstha Limited",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 8043,
+        "symbol": "CBLD88",
+        "name": "Civil Bank Debenture 2088",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 8044,
+        "symbol": "EBLD86",
+        "name": "Everest Bank Limited",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 8045,
+        "symbol": "GVL",
+        "name": "Green Ventures Limited",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 8055,
+        "symbol": "BHL",
+        "name": "Balephi Hydropower Limited",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 8063,
+        "symbol": "ULBSL",
+        "name": "Upakar Laghubitta Bittiya Sanstha Limited",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 8065,
+        "symbol": "CYCL",
+        "name": "CYC Nepal Laghubitta Bittiya Sanstha Limited",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 8066,
+        "symbol": "RFPL",
+        "name": "River Falls Power Limited",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 8068,
+        "symbol": "CCBD88",
+        "name": "Century Debenture 2088",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 8070,
+        "symbol": "DORDI",
+        "name": "Dordi Khola Jal Bidyut Company Limited",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 8071,
+        "symbol": "ADLB",
+        "name": "Adarsha Laghubitta Bittiya Sanstha Limited",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 8073,
+        "symbol": "NICFC",
+        "name": "NIC Asia Flexi CAP Fund",
+        "sector": "Mutual Fund",
+        "instrument": "Mutual Funds"
+    },
+    {
+        "id": 8074,
+        "symbol": "KDBY",
+        "name": "Kumari Dhanabriddhi Yojana",
+        "sector": "Mutual Fund",
+        "instrument": "Mutual Funds"
+    },
+    {
+        "id": 8075,
+        "symbol": "BHDC",
+        "name": "Bindhyabasini Hydropower Development Company Limited",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 8076,
+        "symbol": "HHL",
+        "name": "Himalayan Hydropower Limited",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 8097,
+        "symbol": "PBD88",
+        "name": "10% Prime Debenture 2088",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 8098,
+        "symbol": "SBLD89",
+        "name": "10.75% SBL Debenture 2089",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 8099,
+        "symbol": "UHEWA",
+        "name": "Upper Hewakhola Hydropower Company Limited",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 8100,
+        "symbol": "SGHC",
+        "name": "Swet-Ganga Hydropower & Construction Limited ",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 8102,
+        "symbol": "MHL",
+        "name": "Mandakini Hydropower Limited",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 8104,
+        "symbol": "USHEC",
+        "name": "Upper Solu Hydro Electric Company Limited",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 8105,
+        "symbol": "NMBUR93/94",
+        "name": "NMB Energy Bond 4% - 2093/94 ",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 8106,
+        "symbol": "GIBF1",
+        "name": "Global IME Balanced Fund-1",
+        "sector": "Mutual Fund",
+        "instrument": "Mutual Funds"
+    },
+    {
+        "id": 8108,
+        "symbol": "RHGCL",
+        "name": "Rapti Hydro And General Construction Limited",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 8109,
+        "symbol": "SBD89",
+        "name": "10.25% Sanima Debenture 2089",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 8110,
+        "symbol": "SBID83",
+        "name": "10.25% Nepal SBI Bank Debenture 2083",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 8116,
+        "symbol": "PBD84",
+        "name": "10.15% Prime Debenture 2084",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 8117,
+        "symbol": "AVYAN",
+        "name": "Aviyan Laghubitta Bittiya Sanstha Limited",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 8119,
+        "symbol": "EBLD85",
+        "name": "10.50% Everest Bank Limited Debenture 2085",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 8121,
+        "symbol": "SPHL",
+        "name": "Sayapatri Hydropower Limited",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 8122,
+        "symbol": "PPL",
+        "name": "People's Power Limited",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 8123,
+        "symbol": "DLBS",
+        "name": "Dhaulagiri Laghubitta Bittiya Sanstha Limited",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 8125,
+        "symbol": "NSIF2",
+        "name": "NMB Sulav Investment Fund - 2",
+        "sector": "Mutual Fund",
+        "instrument": "Mutual Funds"
+    },
+    {
+        "id": 8126,
+        "symbol": "SIKLES",
+        "name": "Sikles Hydropower Limited",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 8127,
+        "symbol": "KBLD89",
+        "name": "11% KBL Debenture 2089",
+        "sector": "Debenture",
+        "instrument": "Non-Convertible Debentures"
+    },
+    {
+        "id": 8128,
+        "symbol": "KLBS",
+        "name": "Khaptad Laghubitta Bittiya Sanstha Limited",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 8131,
+        "symbol": "EHPL",
+        "name": "Eastern Hydropower Limited",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    },
+    {
+        "id": 8132,
+        "symbol": "SHLB",
+        "name": "Shrijanshil Laghubitta Bittiya Sanstha Limited",
+        "sector": "Microfinance",
+        "instrument": "Equity"
+    },
+    {
+        "id": 8133,
+        "symbol": "PHCL",
+        "name": "Peoples Hydropower Company Limited",
+        "sector": "Hydro Power",
+        "instrument": "Equity"
+    }
+]
